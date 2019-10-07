@@ -5,4 +5,4 @@ How to write in _cursive_
 How to write with **strong**
 
 
-[ITC Cuatrovientos](https://www.cuatrovientos.org/images/logo2.png)
+![ITC Cuatrovientos](https://www.cuatrovientos.org/images/logo2.png)
